@@ -1,0 +1,35 @@
+D:\КСиС\лабораторные\лр5\Server\Server\bin\Debug\Server.exe.config
+D:\КСиС\лабораторные\лр5\Server\Server\bin\Debug\Server.exe
+D:\КСиС\лабораторные\лр5\Server\Server\bin\Debug\Server.pdb
+D:\КСиС\лабораторные\лр5\Server\Server\obj\Debug\Server.Form1.resources
+D:\КСиС\лабораторные\лр5\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\КСиС\лабораторные\лр5\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\КСиС\лабораторные\лр5\Server\Server\obj\Debug\Server.exe
+D:\КСиС\лабораторные\лр5\Server\Server\obj\Debug\Server.pdb
+D:\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.exe.config
+D:\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.exe
+D:\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.pdb
+D:\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.exe
+D:\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.pdb
+D:\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.Form1.resources
+D:\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.exe.config
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.exe
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.pdb
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.exe
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.pdb
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.Form1.resources
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.Properties.Resources.resources
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+e:\4 сем\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.exe.config
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.exe
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\bin\Debug\Server.pdb
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.exe
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.pdb
+C:\Users\KSU\4 семестр\КСиС\хелпер\КСиС\лабораторные\лр6\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
